@@ -13,7 +13,7 @@ WhatsApp by Meta is a completely free and secure messaging and calling app. What
 ### Latest Update:
 In the latest release 2.24.8.81 on 17th April 2024, WhatsApp introduced a new feature **Screen sharing during video calls** with minor updates in the app.
 - [App navigation moved to bottom.](#app-navigation-moved-to-bottom)
-- [Screen sharing during video calls.](/)
+- [Screen sharing during video calls.](#screen-sharing-during-video-calls)
 
 ### WhatsApp helpful updates in past times:
 WhatsApp is a trusted, reliable, secure, and free messaging app. Over time WhatsApp has introduced a lot of helpful features. Let's check out some of the really handy WhatsApp features:
