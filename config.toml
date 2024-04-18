@@ -3,7 +3,7 @@ title = "WhatsUpate"
   [services.disqus]
     shortname = 'whatsupdate'
   [services.googleAnalytics]
-    ID = 'G-437029908'
+    ID = 'G-4V070KMHQV'
 [params]
   ShowCopyRight = true
   #ShowMore = true
