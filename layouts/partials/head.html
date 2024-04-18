@@ -2,12 +2,15 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="icon" href="{{ "img/favicon.ico" | relURL }}">
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
+    <link rel="manifest" href="/img/site.webmanifest">
 
     <meta name="keyword" content="{{ .Site.Params.keyword }}">
 
     {{- template "_internal/opengraph.html" . -}}
-    {{- template "_internal/google_analytics.html" . -}}
+    {{ template "_internal/google_analytics.html" . }}
 
     <title>{{ .Title }}</title>
 
