@@ -2,7 +2,10 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="icon" href="{{ "img/favicon.ico" | relURL }}">
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
+    <link rel="manifest" href="/img/site.webmanifest">
 
     <meta name="keyword" content="{{ .Site.Params.keyword }}">
 
@@ -13,15 +16,15 @@
 
     <link rel="canonical" href="{{ .Permalink | relURL }}">
 
-    <link rel="stylesheet" href="{{ "css/global.css" | relURL }}">
+    <link rel="stylesheet" href="{{ " css/global.css" | relURL }}">
 
-    <link rel="stylesheet" href="{{ "css/custom.css" | relURL }}">
+    <link rel="stylesheet" href="{{ " css/custom.css" | relURL }}">
 
-    <link rel="stylesheet" href="{{ "css/search.css" | relURL }}" />
+    <link rel="stylesheet" href="{{ " css/search.css" | relURL }}" />
 
     <!-- algolia related style -->
     {{ if site.Params.algolia.enabled }}
-    <link rel="stylesheet" href="{{ "css/autocomplete-theme-classic.css" | relURL }}" />
+    <link rel="stylesheet" href="{{ " css/autocomplete-theme-classic.css" | relURL }}" />
     {{ end }}
 
     <!-- custom style files -->
