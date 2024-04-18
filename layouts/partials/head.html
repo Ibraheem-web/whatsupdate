@@ -10,7 +10,8 @@
     <meta name="keyword" content="{{ .Site.Params.keyword }}">
 
     {{- template "_internal/opengraph.html" . -}}
-    {{ template "_internal/google_analytics.html" . }}
+    {{- template "_internal/google_analytics.html" . -}}
+    {{- template "_internal/schema.html" . -}}
 
     <title>{{ .Title }}</title>
 
