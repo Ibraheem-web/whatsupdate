@@ -1,0 +1,12 @@
+title = "WhatsUpate"
+[services]
+  [services.disqus]
+    shortname = 'whatsupdate'
+  [services.googleAnalytics]
+    ID = 'G-437029908'
+[params]
+  ShowCopyRight = true
+  #ShowMore = true
+  #ShowRSS = true
+  [params.algolia]
+    enabled = true
