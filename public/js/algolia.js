@@ -1,6 +1,6 @@
 (() => {
   // ns-params:@params
-  var baseURL = "http://localhost:1313/";
+  var baseURL = "//localhost:1313/";
   var params = { algolia: { enabled: true }, showcopyright: true };
 
   // <stdin>

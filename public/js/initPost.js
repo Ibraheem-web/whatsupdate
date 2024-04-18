@@ -1,6 +1,6 @@
 (() => {
   // ns-params:@params
-  var params_default = { baseURL: "http://localhost:1313/" };
+  var params_default = { baseURL: "//localhost:1313/" };
 
   // <stdin>
   var scriptMd5 = document.createElement("script");

@@ -1,4 +1,3 @@
-baseURL = "https://whatsupdate.netlify.app/"
 title = "WhatsUpate"
 [services]
   [services.disqus]
