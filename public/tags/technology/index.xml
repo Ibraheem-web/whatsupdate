@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Whatsapp Features on WhatsUpate</title>
-    <link>//localhost:1313/tags/whatsapp-features/</link>
-    <description>Recent content in Whatsapp Features on WhatsUpate</description>
+    <title>Technology on WhatsUpate</title>
+    <link>//localhost:1313/tags/technology/</link>
+    <description>Recent content in Technology on WhatsUpate</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 17 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/whatsapp-features/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Screeen Sharing During Video Call - WhatsApp</title>
       <link>//localhost:1313/posts/whatsapp-new-release/</link>

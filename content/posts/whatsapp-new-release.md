@@ -1,9 +1,10 @@
 ---
 title: 'Screeen Sharing During Video Call - WhatsApp'
 date: '2024-04-17'
-cover: '/img/whatsapp-update-cover.png'
+cover: '/img/posts/whatsapp-update-cover.png'
 description: 'You can now share screen like you do in Zoom Meeting or in Google Meet during video call in WhatsApp'
-tags: ["whatsapp", "whatsapp features"]
+tags: ["whatsapp", "whatsapp features", "technology"]
+keywords: whatsapp, whatsapp features, whatsapp china, new whatsapp feature
 author: 'Ibraheem'
 ---
 
@@ -24,12 +25,12 @@ WhatsApp is a trusted, reliable, secure, and free messaging app. Over time Whats
 - Moments sharing with contacts through Status. 
 
 ### App navigation moved to bottom:
-![Whatsapp Navigation | inline](/img/whatsapp-navigation.png)
+![Whatsapp Navigation | inline](/img/posts/whatsapp-navigation.png)
 
 In the latest updated WhatsApp have moved the navigation bar to the end of the screen. This change makes the UI clean and easy to use. We can now access Chats, Updates, Communities, and Calls from this navigation. Plus the navigation icons are changed also giving a good look to the interface. Smooth scrolling between tabs is a good option to enhance user experience. 
 
 ### Screen sharing during video calls:
-![Screen sharing during video calls | inline](/img/whatsapp-screen-sharing.png)
+![Screen sharing during video calls | inline](/img/posts/whatsapp-screen-sharing.png)
 
 The screen sharing feature in the 2.24.8.81 update is such a useful feature for business as well as individual use. We can now start a meeting instantly anywhere, anytime like Google Meet and Zoom Metting without even leaving the app. We got time-saving and helpful things thanks to WhatsApp from Meta.
 

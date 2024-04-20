@@ -7,12 +7,12 @@
     <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
     <link rel="manifest" href="/img/site.webmanifest">
 
-    <meta name="keyword" content="{{ .Site.Params.keyword }}">
+    <meta name="keyword" content="{{ .Page.Params.keyword }}, {{ .Site.Params.keywords }}">
 
     {{- template "_internal/opengraph.html" . -}}
     {{- template "_internal/google_analytics.html" . -}}
     {{- template "_internal/schema.html" . -}}
-
+    <meta itemprop="keywords" content=" {{ .Page.Params.keywords }}, {{ .Site.Params.keywords }}">
     <meta name="og:image" content="{{ .Page.Params.cover }}">
 
     <title>{{ .Title }}</title>

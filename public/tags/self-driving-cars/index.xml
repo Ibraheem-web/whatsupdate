@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on WhatsUpate</title>
-    <link>//localhost:1313/posts/</link>
-    <description>Recent content in Posts on WhatsUpate</description>
+    <title>Self Driving Cars on WhatsUpate</title>
+    <link>//localhost:1313/tags/self-driving-cars/</link>
+    <description>Recent content in Self Driving Cars on WhatsUpate</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 20 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/self-driving-cars/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Safety Project Launched For Self-Driving Cars</title>
       <link>//localhost:1313/posts/a-safety-project-launched-for-self-driving-cars/</link>
       <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/a-safety-project-launched-for-self-driving-cars/</guid>
       <description>The scientists and experts from the University of Surrey has started a new plan to make the self-driving cars journey more safe and secure. Interior view of a self-driving car About the project:&#xD;They named this safety project Massdrive, this project is set to revolutionize the approval and certification process for autonomous vehicles, ensuring their safety and reliability as they hit the roads.&#xA;Professor Saber Fallah a key figure in the project, says they want to work together with car makers, rule setters, teachers, government people, and local communities.</description>
-    </item>
-    <item>
-      <title>Screeen Sharing During Video Call - WhatsApp</title>
-      <link>//localhost:1313/posts/whatsapp-new-release/</link>
-      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/whatsapp-new-release/</guid>
-      <description>About WhatsApp:&#xD;WhatsApp by Meta is a completely free and secure messaging and calling app. WhatsApp is trusted by over 2B people across 180 countries making it one of the world&amp;rsquo;s best trusted communication apps. What we really love about WhatsApp is its complexity and speed. To know more about WhatsApp visit Meta, WhatsApp or Wiki.&#xA;Latest Update:&#xD;In the latest release 2.24.8.81 on 17th April 2024, WhatsApp introduced a new feature Screen sharing during video calls with minor updates in the app.</description>
     </item>
   </channel>
 </rss>
