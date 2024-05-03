@@ -1,64 +1,41 @@
 {{ if .IsPage }}
 {{ if eq .Section "posts" }}
-    {{ $author := or (.Params.author) (.Site.Author.name) }}
-    {{ $org_name := .Site.Params.mydomain }}
-    <script type="application/ld+json">
-    {
-      "@context": "http://schema.org",
-      "@type": "BlogPosting",
-      "articleSection": "{{ .Section }}",
-      "name": "{{ .Title | safeJS }}",
-      "headline": "{{ .Title | safeJS }}",
-      "alternativeHeadline": "{{ .Params.desciption }}",
-      "description": "{{if .IsPage}}{{ .Summary | markdownify }}{{ else }}{{ if .Description }}{{ .Description | safeJS }}{{ end }}{{ end }}",
-      "inLanguage": {{ if eq .Site.Language.Lang "de" }}{{"de"}}{{ else }}{{"en"}}{{ end }},
-      "isFamilyFriendly": "true",
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "{{ .Permalink }}"
-      },
-      "author" : {
-        "@type": "Person",
-        "name": "{{ $author }}",
-        {{ with .Site.GetPage "/ueber-mich" -}}"url": "{{- .Permalink -}}"{{ end }}
-      },
-      "creator" : {
-      "@type": "Person",
-        "name": "{{ $author }}"
-      },
-      "accountablePerson" : {
-        "@type": "Person",
-        "name": "{{ $author }}"
-      },
-      "copyrightHolder": "{{ $org_name }}",
-      "copyrightYear": "{{ .Date.Format "2006" }}",
-      "dateCreated": "{{ .Date.Format "2006-01-02T15:04:05.00Z" | safeHTML }}",
-      "datePublished": "{{ .PublishDate.Format "2006-01-02T15:04:05.00Z" | safeHTML }}",
-      "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05.00Z" | safeHTML }}",
-      "publisher":{
-        "@type":"Organization",
-        "name": {{ $org_name }},
-        "url": {{ .Permalink }},
-        "logo": {
-          "@type": "ImageObject",
-          "url": "{{ "/icon-144.png" | absURL }}",
-          "width": "144",
-          "height": "144"
-        }
-      },
-      {{ with .Params.cover }}{{ $banner := .Params.cover }}
-        "image": {
-          "@type": "ImageObject",
-          "@id": "{{ $banner.Permalink }}",
-          "url": "{{ $banner.Permalink }}",
-          "height": "{{ $banner.Height }}",
-          "width": "{{ $banner.Width}}"
-        },
-      {{ end }}
-      "url": "{{ .Permalink }}",
-      "wordCount": "{{ .WordCount }}",
-      "genre": [ {{ range $index, $tag := .Params.tags }}{{ if $index }}, {{ end }}"{{ $tag }}" {{ end }}]
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "articleSection": "{{ .Section }}",
+  "name": "{{ .Title | safeJS }}",
+  "headline": "{{ .Title | safeJS }}",
+  "description": "{{ .Description | safeJS }}",
+  "datePublished": "{{ .Date.Format "2006-01-02T15:04:05.00Z" | safeHTML }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05.00Z" | safeHTML }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ .Params.author }}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ .Site.Params.mydomain }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ "/icon-144.png" | absURL }}",
+      "width": 144,
+      "height": 144
     }
-    </script>
+  },
+  "image": {
+    "@type": "ImageObject",
+    "url": "{{ .Params.cover }}",
+    "width": "800",
+    "height": "600"
+  },
+  "keywords": "{{ .Params.keywords | safeJS }}",
+  "mainEntityOfPage": "{{ .Permalink }}",
+  "genre": [
+    {{ range $index, $tag := .Params.tags }}{{ if $index }}, {{ end }}"{{ $tag }}"{{ end }}
+  ]
+}
+</script>
 {{ end }}
 {{ end }}
