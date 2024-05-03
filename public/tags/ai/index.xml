@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ai on WhatsUpate</title>
-    <link>//localhost:1313/tags/ai/</link>
+    <link>/tags/ai/</link>
     <description>Recent content in Ai on WhatsUpate</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Google AI Essentials Course Overview</title>
-      <link>//localhost:1313/posts/google-course-to-learn-ai/</link>
+      <link>/posts/google-course-to-learn-ai/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/google-course-to-learn-ai/</guid>
+      <guid>/posts/google-course-to-learn-ai/</guid>
       <description>In today&amp;rsquo;s fast forward world, learning artificial intelligence (AI) is super important. Google has a new introduce a new course to learn AI Google AI Essentials for free. This course can help you understand AI basics easily.&#xA;You don&amp;rsquo;t have to be a computer expert to join&amp;ndash;anyone can! Google wants everyone, no matter who they are, to learn about AI and how it can make work easier.&#xA;To make sure everyone can join, Google set aside $75 million to train over a million people in the US in AI skills.</description>
     </item>
   </channel>

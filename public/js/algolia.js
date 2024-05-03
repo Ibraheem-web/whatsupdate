@@ -1,6 +1,6 @@
 (() => {
   // ns-params:@params
-  var baseURL = "//localhost:1313/";
+  var baseURL = "/";
   var params = { algolia: { enabled: true }, keywords: ["whatsupdate", "whatsupdate.netlify.app", "whatsupdate. com", "whatsupdate.netlify .app", "news", "live news", "big news", "world news", "technology"], mydomain: "https://whatsupdate.netlify.app/", showcopyright: true };
 
   // <stdin>
