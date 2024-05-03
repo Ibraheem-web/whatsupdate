@@ -1,3 +1,4 @@
+{{ if .IsPage }}
 {{ if eq .Section "posts" }}
     {{ $author := or (.Params.author) (.Site.Author.name) }}
     {{ $org_name := .Site.Params.mydomain }}
@@ -59,4 +60,5 @@
       "genre": [ {{ range $index, $tag := .Params.tags }}{{ if $index }}, {{ end }}"{{ $tag }}" {{ end }}]
     }
     </script>
-  {{ end }}
+{{ end }}
+{{ end }}
