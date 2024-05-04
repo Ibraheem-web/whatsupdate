@@ -10,12 +10,12 @@
     <meta name="keyword" content="{{ .Page.Params.keyword }}, {{ .Site.Params.keywords }}">
 
     {{- template "_internal/opengraph.html" . -}}
+    <meta name="og:image" content="{{ .Page.Params.cover }}">
     {{- template "_internal/google_analytics.html" . -}}
     {{- template "_internal/schema.html" . -}}
     {{- template "_internal/twitter_cards.html" . -}}
     {{ partial "schema.html" }}
     <meta itemprop="keywords" content=" {{ .Page.Params.keywords }}, {{ .Site.Params.keywords }}">
-    <meta name="og:image" content="{{ .Page.Params.cover }}">
     <meta name="twitter:image" content="{{ .Page.Params.cover }}">
 
     <title>{{ .Title }}</title>
