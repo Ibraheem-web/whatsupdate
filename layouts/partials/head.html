@@ -10,9 +10,7 @@
     <meta name="keyword" content="{{ .Page.Params.keyword }}, {{ .Site.Params.keywords }}">
 
     {{- template "_internal/opengraph.html" . -}}
-    {{ if eq .Section "blog" }}
     <meta name="og:image" content="{{ .Page.Params.cover }}">
-    {{ end }}
     {{- template "_internal/google_analytics.html" . -}}
     {{- template "_internal/schema.html" . -}}
     {{- template "_internal/twitter_cards.html" . -}}
