@@ -1,22 +1,54 @@
 <script type="application/ld+json">
+  {{ $org_name := site.Params.mydomain }}
   {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "{{ .Page.Title }}",
-    "datePublished": "{{ .Page.Params.Date }}",
-    "image": [
-      "{{ .Page.Params.cover }}"
-    ],
-    "author": {
-      "@type": "Person",
-      "name": "{{ .Page.Params.author }}"
-    },
-    "description": "{{ .Page.Params.description }}",
-    "keywords": "{{ .Page.Params.keywords }}",
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "articleSection": "{{ .Section }}",
+    "name": "{{ page.Title | safeJS }}",
+    "headline": "{{ page.Title | safeJS }}",
+    "description": "{{ page.Params.Description | safeJS }}",
+    "inLanguage": {{ if eq .Site.Language.Lang "de" }}{{"de"}}{{ else }}{{"en"}}{{ end }},
+    "isFamilyFriendly": "true",
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://whatsupdate.netlify.app/"
-    }
+      "@id": "{{ page.Permalink }}"
+    },
+    "author" : {
+      "@type": "Person",
+      "name": "{{ page.Params.author }}",
+      {{ with site.GetPage "/ueber-mich" -}}"url": "{{- site.Permalink -}}"{{ end }}
+    },
+    "creator" : {
+    "@type": "Person",
+      "name": "{{ page.Params.author }}"
+    },
+    "accountablePerson" : {
+      "@type": "Person",
+      "name": "{{ page.Params.author }}"
+    },
+    "copyrightHolder": "{{ $org_name }}",
+    "copyrightYear": "{{ .Date.Format "2006" }}",
+    "dateCreated": "{{ .Date.Format "2006-01-02T15:04:05.00Z" | safeHTML }}",
+    "datePublished": "{{ .PublishDate.Format "2006-01-02T15:04:05.00Z" | safeHTML }}",
+    "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05.00Z" | safeHTML }}",
+    "publisher":{
+      "@type":"Organization",
+      "name": {{ $org_name }},
+      "url": {{ .Permalink }},
+      "logo": {
+        "@type": "ImageObject",
+        "url": "{{ "/icon-144.png" | absURL }}",
+        "width": "144",
+        "height": "144"
+      }
+    },
+      "image": {
+        "@type": "ImageObject",
+        "@id": "{{ page.Params.cover }}",
+        "url": "{{ page.Permalink }}",
+      },
+    "url": "{{ page.Permalink }}",
+    "wordCount": "{{ .WordCount }}",
+    "genre": [ {{ range $index, $tag := page.Params.tags }}{{ if $index }}, {{ end }}"{{ $tag }}" {{ end }}]
   }
-  
   </script>
