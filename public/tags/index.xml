@@ -2,73 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on WhatsUpate</title>
-    <link>/tags/</link>
+    <link>//localhost:1313/tags/</link>
     <description>Recent content in Tags on WhatsUpate</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 02 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cybersecurity</title>
+      <link>//localhost:1313/tags/cybersecurity/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/cybersecurity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cybersense</title>
+      <link>//localhost:1313/tags/cybersense/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/cybersense/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dell</title>
+      <link>//localhost:1313/tags/dell/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/dell/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Android</title>
-      <link>/tags/android/</link>
+      <link>//localhost:1313/tags/android/</link>
       <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
-      <guid>/tags/android/</guid>
+      <guid>//localhost:1313/tags/android/</guid>
       <description></description>
     </item>
     <item>
       <title>Google</title>
-      <link>/tags/google/</link>
+      <link>//localhost:1313/tags/google/</link>
       <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
-      <guid>/tags/google/</guid>
+      <guid>//localhost:1313/tags/google/</guid>
       <description></description>
     </item>
     <item>
       <title>Ai</title>
-      <link>/tags/ai/</link>
+      <link>//localhost:1313/tags/ai/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>/tags/ai/</guid>
+      <guid>//localhost:1313/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Cars Safety</title>
-      <link>/tags/cars-safety/</link>
+      <link>//localhost:1313/tags/cars-safety/</link>
       <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>/tags/cars-safety/</guid>
+      <guid>//localhost:1313/tags/cars-safety/</guid>
       <description></description>
     </item>
     <item>
       <title>Massdrive</title>
-      <link>/tags/massdrive/</link>
+      <link>//localhost:1313/tags/massdrive/</link>
       <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>/tags/massdrive/</guid>
+      <guid>//localhost:1313/tags/massdrive/</guid>
       <description></description>
     </item>
     <item>
       <title>Self Driving Cars</title>
-      <link>/tags/self-driving-cars/</link>
+      <link>//localhost:1313/tags/self-driving-cars/</link>
       <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>/tags/self-driving-cars/</guid>
+      <guid>//localhost:1313/tags/self-driving-cars/</guid>
       <description></description>
     </item>
     <item>
       <title>Technology</title>
-      <link>/tags/technology/</link>
+      <link>//localhost:1313/tags/technology/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>/tags/technology/</guid>
+      <guid>//localhost:1313/tags/technology/</guid>
       <description></description>
     </item>
     <item>
       <title>Whatsapp</title>
-      <link>/tags/whatsapp/</link>
+      <link>//localhost:1313/tags/whatsapp/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>/tags/whatsapp/</guid>
+      <guid>//localhost:1313/tags/whatsapp/</guid>
       <description></description>
     </item>
     <item>
       <title>Whatsapp Features</title>
-      <link>/tags/whatsapp-features/</link>
+      <link>//localhost:1313/tags/whatsapp-features/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>/tags/whatsapp-features/</guid>
+      <guid>//localhost:1313/tags/whatsapp-features/</guid>
       <description></description>
     </item>
   </channel>
