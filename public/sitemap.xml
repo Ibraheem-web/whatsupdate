@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/tags/android/</loc>
+    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/huawei/</loc>
+    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/huawei-pura-70-ultra-specifications/</loc>
+    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/</loc>
+    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/pura-70-ultra/</loc>
+    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/tags/cybersecurity/</loc>
     <lastmod>2024-05-03T00:00:00+00:00</lastmod>
   </url><url>
@@ -13,18 +34,6 @@
   </url><url>
     <loc>//localhost:1313/posts/dell-cybersense/</loc>
     <lastmod>2024-05-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/</loc>
-    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/</loc>
-    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/</loc>
-    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/android/</loc>
-    <lastmod>2024-05-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/android-and-google-update/</loc>
     <lastmod>2024-05-02T00:00:00+00:00</lastmod>
