@@ -1,5 +1,5 @@
 ---
-title: "Xiaomi TV A55 2025 Full Overview"
+title: "Xiaomi TV A55 2025 Full Review"
 date: '2024-05-06'
 cover: '/img/posts/xiaomi-tv-a55-new.png'
 description: 'Xiaomi TV A 55 2025: Redefining home entertainment with cutting-edge technology and immersive visuals.'
