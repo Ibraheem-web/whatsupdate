@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xiaomi on InfoTrendSpot</title>
-    <link>/tags/xiaomi/</link>
+    <link>//localhost:1313/tags/xiaomi/</link>
     <description>Recent content in Xiaomi on InfoTrendSpot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 06 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/xiaomi/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/xiaomi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Xiaomi TV A55 2025 Full Review</title>
-      <link>/posts/tv-a55/</link>
+      <link>//localhost:1313/posts/tv-a55/</link>
       <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/tv-a55/</guid>
+      <guid>//localhost:1313/posts/tv-a55/</guid>
       <description>Xiaomi introduces its latest innovation, the Xiaomi TV A 55 2025. Packed with cutting-edge technology and sleek design, this television promises to revolutionize your viewing experience. Let&amp;rsquo;s delve into what makes this TV a game-changer in the world of home entertainment.&#xA;Immersive Visuals&#xD;Visuals - Xiaomi TV A55&#xD;At the heart of the Xiaomi TV A 55 2025 lies its breathtaking 4K HDR display with motion smoothing technology. Boasting a resolution of 3840 x 2160 pixels and a color depth of 1.</description>
     </item>
   </channel>

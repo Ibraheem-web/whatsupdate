@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cybersense on InfoTrendSpot</title>
-    <link>/tags/cybersense/</link>
+    <link>//localhost:1313/tags/cybersense/</link>
     <description>Recent content in Cybersense on InfoTrendSpot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 03 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/cybersense/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/cybersense/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dell CyberSense for Empowring Your Digital Defense</title>
-      <link>/posts/dell-cybersense/</link>
+      <link>//localhost:1313/posts/dell-cybersense/</link>
       <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/dell-cybersense/</guid>
+      <guid>//localhost:1313/posts/dell-cybersense/</guid>
       <description>In today’s world of business, keeping data safe is main priority. But, there’s a big problem: lots of companies have been attacked by cybercriminals who stop them from getting to their data. What’s even scarier is that many of these companies don’t feel sure they can recover if this happens. But, there’s some good news in the fight against these cybercriminals – it comes in the form of artificial intelligence (AI) and machine learning (ML).</description>
     </item>
   </channel>

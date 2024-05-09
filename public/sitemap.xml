@@ -2,99 +2,101 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/tags/gt/</loc>
+    <loc>//localhost:1313/tags/gt/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/neo-6/</loc>
+    <loc>//localhost:1313/tags/neo-6/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>//localhost:1313/posts/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/realme/</loc>
+    <loc>//localhost:1313/tags/realme/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/realme-gt-neo-6/</loc>
+    <loc>//localhost:1313/posts/realme-gt-neo-6/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/a55/</loc>
+    <loc>//localhost:1313/tags/a55/</loc>
     <lastmod>2024-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/tv/</loc>
+    <loc>//localhost:1313/tags/tv/</loc>
     <lastmod>2024-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/xiaomi/</loc>
+    <loc>//localhost:1313/tags/xiaomi/</loc>
     <lastmod>2024-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/tv-a55/</loc>
+    <loc>//localhost:1313/posts/tv-a55/</loc>
     <lastmod>2024-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/android/</loc>
+    <loc>//localhost:1313/tags/android/</loc>
     <lastmod>2024-05-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/huawei/</loc>
+    <loc>//localhost:1313/tags/huawei/</loc>
     <lastmod>2024-05-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/huawei-pura-70-ultra-specifications/</loc>
+    <loc>//localhost:1313/posts/huawei-pura-70-ultra-specifications/</loc>
     <lastmod>2024-05-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/pura-70-ultra/</loc>
+    <loc>//localhost:1313/tags/pura-70-ultra/</loc>
     <lastmod>2024-05-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/cybersecurity/</loc>
+    <loc>//localhost:1313/tags/cybersecurity/</loc>
     <lastmod>2024-05-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/cybersense/</loc>
+    <loc>//localhost:1313/tags/cybersense/</loc>
     <lastmod>2024-05-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/dell/</loc>
+    <loc>//localhost:1313/tags/dell/</loc>
     <lastmod>2024-05-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/dell-cybersense/</loc>
+    <loc>//localhost:1313/posts/dell-cybersense/</loc>
     <lastmod>2024-05-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/android-and-google-update/</loc>
+    <loc>//localhost:1313/posts/android-and-google-update/</loc>
     <lastmod>2024-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/google/</loc>
+    <loc>//localhost:1313/tags/google/</loc>
     <lastmod>2024-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/ai/</loc>
+    <loc>//localhost:1313/tags/ai/</loc>
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/google-course-to-learn-ai/</loc>
+    <loc>//localhost:1313/posts/google-course-to-learn-ai/</loc>
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/a-safety-project-launched-for-self-driving-cars/</loc>
+    <loc>//localhost:1313/posts/a-safety-project-launched-for-self-driving-cars/</loc>
     <lastmod>2024-04-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/cars-safety/</loc>
+    <loc>//localhost:1313/tags/cars-safety/</loc>
     <lastmod>2024-04-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/massdrive/</loc>
+    <loc>//localhost:1313/tags/massdrive/</loc>
     <lastmod>2024-04-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/self-driving-cars/</loc>
+    <loc>//localhost:1313/tags/self-driving-cars/</loc>
     <lastmod>2024-04-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/whatsapp-new-release/</loc>
+    <loc>//localhost:1313/posts/whatsapp-new-release/</loc>
     <lastmod>2024-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/technology/</loc>
+    <loc>//localhost:1313/tags/technology/</loc>
     <lastmod>2024-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/whatsapp/</loc>
+    <loc>//localhost:1313/tags/whatsapp/</loc>
     <lastmod>2024-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/whatsapp-features/</loc>
+    <loc>//localhost:1313/tags/whatsapp-features/</loc>
     <lastmod>2024-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>//localhost:1313/about/</loc>
+  </url><url>
+    <loc>//localhost:1313/categories/</loc>
   </url>
 </urlset>
