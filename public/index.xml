@@ -64,5 +64,12 @@
       <guid>//localhost:1313/posts/whatsapp-new-release/</guid>
       <description>About WhatsApp:&#xD;WhatsApp by Meta is a completely free and secure messaging and calling app. WhatsApp is trusted by over 2B people across 180 countries making it one of the world&amp;rsquo;s best trusted communication apps. What we really love about WhatsApp is its complexity and speed. To know more about WhatsApp visit Meta, WhatsApp or Wiki.&#xA;Latest Update:&#xD;In the latest release 2.24.8.81 on 17th April 2024, WhatsApp introduced a new feature Screen sharing during video calls with minor updates in the app.</description>
     </item>
+    <item>
+      <title>About Us</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>Welcome to InfoTrendSpot, your premier destination for all tech news. Dive into the latest updates, trends, and innovations in the world of technology with us. At InfoTrendSpot, we&amp;rsquo;re dedicated to bringing you the freshest insights and top news from the tech sphere.&#xA;Curious about what&amp;rsquo;s new in the tech world? Our team of experts scours the digital landscape to deliver the most relevant and exciting stories right to your fingertips. Whether it&amp;rsquo;s the hottest gadgets, groundbreaking research, or industry trends, we&amp;rsquo;ve got you covered.</description>
+    </item>
   </channel>
 </rss>
