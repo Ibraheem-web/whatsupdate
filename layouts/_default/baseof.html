@@ -5,7 +5,6 @@
     {{ partial "schema.html" }}
   </head>
   <body class="{{ if .IsPage }} page-article {{ else }} page-landing {{ end }}  {{ if eq .Page.Params.theme "dark" }} theme-dark {{ end }}">
-    {{ partial "monetag.html" . }}
     <header>
       {{ partial "header.html" . }}
     </header>
