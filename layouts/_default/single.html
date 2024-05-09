@@ -2,7 +2,6 @@
   {{ $featured := .Page.Params.featured }}
   {{ $notPlainPage := ne .Page.Params.plain true }}
   <main id="main" class="main">
-    {{ partial "monetag.html" . }}
       <section>
         <article class="article">
           {{ if $notPlainPage }}
