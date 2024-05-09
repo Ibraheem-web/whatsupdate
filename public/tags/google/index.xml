@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Google on InfoTrendSpot</title>
-    <link>//localhost:1313/tags/google/</link>
+    <link>/tags/google/</link>
     <description>Recent content in Google on InfoTrendSpot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 02 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/google/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/google/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Android Upcoming Updates Anncounced At CES 2024</title>
-      <link>//localhost:1313/posts/android-and-google-update/</link>
+      <link>/posts/android-and-google-update/</link>
       <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/android-and-google-update/</guid>
+      <guid>/posts/android-and-google-update/</guid>
       <description>Android Updates 2024&#xD;In the world of technology, Android and Google are always striving to make your digital life easier and more connected. At this year&amp;rsquo;s CES, they unveil some exciting updates that will streamline your experience across various devices. Let&amp;rsquo;s dive into the details and see how these enhancements can benefit you.&#xA;A Seamless Sharing Experience&#xD;Sharing files between devices should be a breeze, right? Android introduced Nearby Share in 2020.</description>
     </item>
     <item>
       <title>Google AI Essentials Course Overview</title>
-      <link>//localhost:1313/posts/google-course-to-learn-ai/</link>
+      <link>/posts/google-course-to-learn-ai/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/google-course-to-learn-ai/</guid>
+      <guid>/posts/google-course-to-learn-ai/</guid>
       <description>In today&amp;rsquo;s fast forward world, learning artificial intelligence (AI) is super important. Google has a new introduce a new course to learn AI Google AI Essentials for free. This course can help you understand AI basics easily.&#xA;You don&amp;rsquo;t have to be a computer expert to join&amp;ndash;anyone can! Google wants everyone, no matter who they are, to learn about AI and how it can make work easier.&#xA;To make sure everyone can join, Google set aside $75 million to train over a million people in the US in AI skills.</description>
     </item>
   </channel>

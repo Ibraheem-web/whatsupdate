@@ -1,6 +1,6 @@
 (() => {
   // ns-params:@params
-  var baseURL = "//localhost:1313/";
+  var baseURL = "/";
   var params = { algolia: { enabled: true }, keywords: ["InfoTrendSpot", "infotrendspot.org", "infotrendspot. org", "infotrendspot. com", "news", "live news", "big news", "world news", "technology"], mydomain: "https://infotrendspot.org/", showcopyright: true };
 
   // <stdin>

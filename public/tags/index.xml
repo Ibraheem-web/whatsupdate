@@ -2,150 +2,150 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on InfoTrendSpot</title>
-    <link>//localhost:1313/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on InfoTrendSpot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gt</title>
-      <link>//localhost:1313/tags/gt/</link>
+      <link>/tags/gt/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/gt/</guid>
+      <guid>/tags/gt/</guid>
       <description></description>
     </item>
     <item>
       <title>Neo 6</title>
-      <link>//localhost:1313/tags/neo-6/</link>
+      <link>/tags/neo-6/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/neo-6/</guid>
+      <guid>/tags/neo-6/</guid>
       <description></description>
     </item>
     <item>
       <title>Realme</title>
-      <link>//localhost:1313/tags/realme/</link>
+      <link>/tags/realme/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/realme/</guid>
+      <guid>/tags/realme/</guid>
       <description></description>
     </item>
     <item>
       <title>A55</title>
-      <link>//localhost:1313/tags/a55/</link>
+      <link>/tags/a55/</link>
       <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/a55/</guid>
+      <guid>/tags/a55/</guid>
       <description></description>
     </item>
     <item>
       <title>Tv</title>
-      <link>//localhost:1313/tags/tv/</link>
+      <link>/tags/tv/</link>
       <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/tv/</guid>
+      <guid>/tags/tv/</guid>
       <description></description>
     </item>
     <item>
       <title>Xiaomi</title>
-      <link>//localhost:1313/tags/xiaomi/</link>
+      <link>/tags/xiaomi/</link>
       <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/xiaomi/</guid>
+      <guid>/tags/xiaomi/</guid>
       <description></description>
     </item>
     <item>
       <title>Android</title>
-      <link>//localhost:1313/tags/android/</link>
+      <link>/tags/android/</link>
       <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/android/</guid>
+      <guid>/tags/android/</guid>
       <description></description>
     </item>
     <item>
       <title>Huawei</title>
-      <link>//localhost:1313/tags/huawei/</link>
+      <link>/tags/huawei/</link>
       <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/huawei/</guid>
+      <guid>/tags/huawei/</guid>
       <description></description>
     </item>
     <item>
       <title>Pura 70 Ultra</title>
-      <link>//localhost:1313/tags/pura-70-ultra/</link>
+      <link>/tags/pura-70-ultra/</link>
       <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/pura-70-ultra/</guid>
+      <guid>/tags/pura-70-ultra/</guid>
       <description></description>
     </item>
     <item>
       <title>Cybersecurity</title>
-      <link>//localhost:1313/tags/cybersecurity/</link>
+      <link>/tags/cybersecurity/</link>
       <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/cybersecurity/</guid>
+      <guid>/tags/cybersecurity/</guid>
       <description></description>
     </item>
     <item>
       <title>Cybersense</title>
-      <link>//localhost:1313/tags/cybersense/</link>
+      <link>/tags/cybersense/</link>
       <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/cybersense/</guid>
+      <guid>/tags/cybersense/</guid>
       <description></description>
     </item>
     <item>
       <title>Dell</title>
-      <link>//localhost:1313/tags/dell/</link>
+      <link>/tags/dell/</link>
       <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/dell/</guid>
+      <guid>/tags/dell/</guid>
       <description></description>
     </item>
     <item>
       <title>Google</title>
-      <link>//localhost:1313/tags/google/</link>
+      <link>/tags/google/</link>
       <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/google/</guid>
+      <guid>/tags/google/</guid>
       <description></description>
     </item>
     <item>
       <title>Ai</title>
-      <link>//localhost:1313/tags/ai/</link>
+      <link>/tags/ai/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/ai/</guid>
+      <guid>/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Cars Safety</title>
-      <link>//localhost:1313/tags/cars-safety/</link>
+      <link>/tags/cars-safety/</link>
       <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/cars-safety/</guid>
+      <guid>/tags/cars-safety/</guid>
       <description></description>
     </item>
     <item>
       <title>Massdrive</title>
-      <link>//localhost:1313/tags/massdrive/</link>
+      <link>/tags/massdrive/</link>
       <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/massdrive/</guid>
+      <guid>/tags/massdrive/</guid>
       <description></description>
     </item>
     <item>
       <title>Self Driving Cars</title>
-      <link>//localhost:1313/tags/self-driving-cars/</link>
+      <link>/tags/self-driving-cars/</link>
       <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/self-driving-cars/</guid>
+      <guid>/tags/self-driving-cars/</guid>
       <description></description>
     </item>
     <item>
       <title>Technology</title>
-      <link>//localhost:1313/tags/technology/</link>
+      <link>/tags/technology/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/technology/</guid>
+      <guid>/tags/technology/</guid>
       <description></description>
     </item>
     <item>
       <title>Whatsapp</title>
-      <link>//localhost:1313/tags/whatsapp/</link>
+      <link>/tags/whatsapp/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/whatsapp/</guid>
+      <guid>/tags/whatsapp/</guid>
       <description></description>
     </item>
     <item>
       <title>Whatsapp Features</title>
-      <link>//localhost:1313/tags/whatsapp-features/</link>
+      <link>/tags/whatsapp-features/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/whatsapp-features/</guid>
+      <guid>/tags/whatsapp-features/</guid>
       <description></description>
     </item>
   </channel>
