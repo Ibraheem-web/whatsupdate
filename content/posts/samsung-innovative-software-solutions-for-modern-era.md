@@ -6,14 +6,11 @@ description: ""
 tags: ["samsung", "bixby", "samsung kids", "samsung global goals", "smart things"]
 keywords: ["samsung", "bixby", "samsung kids", "samsung global goals", "smart things", "samsung apps", "kids safety"]
 author: 'Ibraheem'
-draft: true
 ---
 
 In the current digital era, technology has a significant impact on every aspect of our life, influencing everything from our daily routines to how we interact with others. Samsung, a world leader in innovation, keeps changing the way people engage with technology by offering a wide variety of software options. This article will examine four of Samsung's exceptional software products that are improving people's lives and benefiting communities all around the world.
 
 ### 1. Bixby
-
-![Samsung Bixby Logo|inline ](/img/posts/bixby-logo.webp)
 
 Bixby uses simple voice commands to transform device management on Galaxy products. Bixby easily streamlines activities, from sending SMS to controlling smart home appliances. Users of all abilities are empowered by its customized shortcuts and accessibility features.
 
@@ -21,23 +18,17 @@ Bixby is the ideal virtual assistant for modern living since it offers an unmatc
 
 ### 2. Samsung Kids
 
-![Samsung Kids interface|inline ](/img/posts/samsung-kids.png)
-
 Samsung Kids offers kids a fun and secure environment in which to discover the world of technology. This software, which focuses on both education and enjoyment, provides a carefully chosen range of kid-friendly activities that are meant to inspire creativity and learning.
 
 Playtime restrictions can be established by parents, who can also manage their child's access to particular contacts and apps and keep an eye on their usage with detailed usage logs. With the help of lovable characters like Cooki, Crocro, and Lisa, Samsung Kids promotes learning, play, and development in a safe online environment for kids.
 
 ### 3. Samsung Global Goals
 
-![Samsung Global Goals interface|inline ](/img/posts/global-goals.png)
-
 The Samsung Global Goals app, which is in line with the Sustainable Development Goals of the UN, gives users the ability to significantly impact the world. Users can contribute to causes like ending hunger, advancing education, and halting climate change by raising money through in-app adverts.
 
 The app lets users follow progress, keep track of donations, and support causes that speak to them by offering insightful information on each of the 17 sustainable development goals. Samsung and its users are working together to create a more just and sustainable future for everybody.
 
 ### 4. SmartThings
-
-![Samsung Smart things interface|inline ](/img/posts/smartthing.png)
 
 SmartThings offers seamless control over smart appliances and gadgets, revolutionizing how we interact with our homes.
 
