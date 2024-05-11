@@ -9,24 +9,24 @@
     <lastBuildDate>Sat, 11 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Cybersecurity</title>
-      <link>//localhost:1313/tags/cybersecurity/</link>
+      <title>Micosoft</title>
+      <link>//localhost:1313/tags/micosoft/</link>
       <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/cybersecurity/</guid>
+      <guid>//localhost:1313/tags/micosoft/</guid>
       <description></description>
     </item>
     <item>
-      <title>Cybersense</title>
-      <link>//localhost:1313/tags/cybersense/</link>
+      <title>Nowassist</title>
+      <link>//localhost:1313/tags/nowassist/</link>
       <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/cybersense/</guid>
+      <guid>//localhost:1313/tags/nowassist/</guid>
       <description></description>
     </item>
     <item>
-      <title>Dell</title>
-      <link>//localhost:1313/tags/dell/</link>
+      <title>Servicenow</title>
+      <link>//localhost:1313/tags/servicenow/</link>
       <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/dell/</guid>
+      <guid>//localhost:1313/tags/servicenow/</guid>
       <description></description>
     </item>
     <item>
@@ -125,6 +125,27 @@
       <link>//localhost:1313/tags/pura-70-ultra/</link>
       <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/tags/pura-70-ultra/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cybersecurity</title>
+      <link>//localhost:1313/tags/cybersecurity/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/cybersecurity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cybersense</title>
+      <link>//localhost:1313/tags/cybersense/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/cybersense/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dell</title>
+      <link>//localhost:1313/tags/dell/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/dell/</guid>
       <description></description>
     </item>
     <item>

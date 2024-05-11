@@ -4,7 +4,6 @@
     <div class="section-content">
       <h2 class="section-head">{{ i18n "latestArticles" }}</h2>
       <ul role="list" class="section-tiles">
-        {{ partial "google080e2bd67a171a1c.html" . }}
         {{ range first 1 $pages }}
           {{ $level := 1 }}
           {{ partial "tile.html" (dict "context" . "level" $level) }}
