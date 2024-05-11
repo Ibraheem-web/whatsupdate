@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Servicenow on InfoTrendSpot</title>
+    <link>//localhost:1313/tags/servicenow/</link>
+    <description>Recent content in Servicenow on InfoTrendSpot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 11 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/servicenow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Boosting Productivity at Work: ServiceNow and Microsoft Combine AI Capabilities!</title>
+      <link>//localhost:1313/posts/servicenow-and-microsoft-collab/</link>
+      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/servicenow-and-microsoft-collab/</guid>
+      <description>At Knowledge 2024, ServiceNow (NYSE: NOW) and Microsoft Corp. (NASDAQ: MSFT) announced an important partnership aimed at making work easier and more productive. By combining their advanced AI technologies, Now Assist and Microsoft Copilot, they aim to simplify tasks for employees and boost productivity in the workplace.&#xA;ServiceNow and Microsoft&amp;rsquo;s Joint Effort&#xD;This collaboration brings together Now Assist and Microsoft Copilot, two powerful AI assistants. Together, they offer an immaculate experience, bridging the gap between ServiceNow’s AI workflows and Microsoft Copilot.</description>
+    </item>
+  </channel>
+</rss>
