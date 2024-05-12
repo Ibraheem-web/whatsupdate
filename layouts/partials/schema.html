@@ -1,29 +1,3 @@
-{{ if or ( page.Params.plain ) }}
-<script type="application/ld+json">
-  {
-    "@context": "http://schema.org",
-    "@type": "WebSite",
-    "name": "{{ site.Params.mydomain }}",
-    "url": "{{ printf "%s%s" site.BaseURL (substr .Paginator.URL 1) }}",
-    {{ if page.Params.plain }}
-      "description": "{{ page.Content }}",
-    {{ else }}
-      {{ if eq .Site.Language.Lang "de" }}
-        {{ $u := urls.Parse .Permalink }}
-        {{ $u := strings.TrimRight "/" $u.Path }}
-        {{ $u := substr $u 6 }}
-        "description": "Tag {{ $u }} - {{ site.Params.description }}",
-      {{ else }}
-        {{ $u := urls.Parse .Permalink }}
-        {{ $u := strings.TrimRight "/" $u.Path }}
-        {{ $u := substr $u 9 }}
-        "description": "Tag {{ $u }} - {{ site.Params.description }}",
-      {{ end }}
-    {{ end }}
-    "inLanguage": {{ if eq site.Language.Lang "de" }}{{"de"}}{{ else }}{{"en"}}{{ end }},
-  }
-  </script>
-{{ else }}
 <script type="application/ld+json">
   {{ $org_name := site.Params.mydomain }}
   {
@@ -78,4 +52,3 @@
     "genre": [ {{ range $index, $tag := page.Params.tags }}{{ if $index }}, {{ end }}"{{ $tag }}" {{ end }}]
   }
   </script>
-{{ end }}
