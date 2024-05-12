@@ -4,7 +4,7 @@ date: '2024-05-12'
 cover: '/img/posts/samsungbud-vs-googlebud.png'
 description: ''
 tags: ["earbuds", "google", "samsung"]
-keywords: earbuds, google, samsung, camparison, googlvssamsung, featuredearbuds
+keywords: google, samsung, samsung galaxy buds2, google pixel buds pro
 author: 'Ibraheem'
 ---
 
