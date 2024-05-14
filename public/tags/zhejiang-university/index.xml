@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhejiang University on InfoTrendSpot</title>
+    <link>//localhost:1313/tags/zhejiang-university/</link>
+    <description>Recent content in Zhejiang University on InfoTrendSpot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 14 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/zhejiang-university/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ZJU Scientists Latest Research: Soft Robot For Exploration in Mariana Trench</title>
+      <link>//localhost:1313/posts/zju-scients-soft-robot-development/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/zju-scients-soft-robot-development/</guid>
+      <description>Exploration of the Mariana Trench, the deepest known submarine trench on Earth, has long captivated the imagination of scientists and adventurers alike. However, the extreme hydrostatic pressure found in this forbidding environment presents a formidable challenge for man-made machines. Until recently, the prospect of venturing into this abyss seemed reserved for only the most resilient of crafts.&#xA;Design Inspiration&#xD;In a groundbreaking development, scientists at Zhejiang University have shattered this barrier with their latest research into soft robotics.</description>
+    </item>
+  </channel>
+</rss>
