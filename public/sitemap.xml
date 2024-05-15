@@ -5,6 +5,15 @@
     <loc>//localhost:1313/tags/ai/</loc>
     <lastmod>2024-05-14T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/tags/cybersecurity/</loc>
+    <lastmod>2024-05-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/forcepoint/</loc>
+    <lastmod>2024-05-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/forcepoint-automatic-date-protection/</loc>
+    <lastmod>2024-05-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/</loc>
     <lastmod>2024-05-14T00:00:00+00:00</lastmod>
   </url><url>
@@ -98,9 +107,6 @@
     <loc>//localhost:1313/tags/pura-70-ultra/</loc>
     <lastmod>2024-05-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/cybersecurity/</loc>
-    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/tags/cybersense/</loc>
     <lastmod>2024-05-03T00:00:00+00:00</lastmod>
   </url><url>
@@ -142,6 +148,10 @@
   </url><url>
     <loc>//localhost:1313/about/</loc>
   </url><url>
+    <loc>//localhost:1313/tags/automatic-data-protection/</loc>
+  </url><url>
     <loc>//localhost:1313/categories/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/cyber-security/</loc>
   </url>
 </urlset>
