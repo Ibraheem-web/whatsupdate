@@ -4,7 +4,7 @@ date: '2024-05-01'
 cover: '/img/posts/google-artificial-intelligence.jpg'
 description: 'Get an overview of what Google offers in the Google AI Essentials free course. '
 tags: ["google", "ai"]
-keywords: google, google ai course, ai, google free course
+keywords: [google, google ai course, ai, google free course]
 author: 'Ibraheem'
 ---
 

@@ -7,8 +7,7 @@
     <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
     <link rel="manifest" href="/img/site.webmanifest">
 
-    <meta name="keywords" content="{{ range $index, $element := .Page.Params.keywords}}{{ if $index }}, {{ end }}{{ $element }}{{ end }}">
-
+    
     {{- template "_internal/opengraph.html" . -}}
     <meta name="og:image" content="{{ .Page.Params.cover }}">
     {{- template "_internal/google_analytics.html" . -}}
@@ -16,6 +15,11 @@
     {{- template "_internal/twitter_cards.html" . -}}
     <meta itemprop="keywords" content="{{ range $index, $element := .Page.Params.keywords}}{{ if $index }}, {{ end }}{{ $element }}{{ end }}">
     <meta name="twitter:image" content="{{ .Page.Params.cover }}">
+    
+    <meta name="title" content="{{ .Page.Title }}">
+    <meta name="description" content="{{ .Page.Params.description }}">
+    <meta name="author" content="{{ .Page.Params.author }}">
+    <meta name="keywords" content="{{ range $index, $element := .Page.Params.keywords}}{{ if $index }}, {{ end }}{{ $element }}{{ end }}">
 
     <title>{{ .Title }}</title>
 

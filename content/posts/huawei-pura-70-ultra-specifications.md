@@ -4,7 +4,7 @@ date: '2024-05-05'
 cover: '/img/posts/huawei-pura-70-ultra.webp'
 description: 'A complete overview of Huawei Pura 70 Ultra features.'
 tags: ["huawei", "pura 70 ultra", "android"]
-keywords: huawei, pura-70-ultra, android, pop-out-camera
+keywords: [huawei, pura-70-ultra, android, pop-out-camera]
 author: 'Ibraheem'
 ---
 

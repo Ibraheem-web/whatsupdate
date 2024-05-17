@@ -4,7 +4,7 @@ date: '2024-05-02'
 cover: '/img/posts/android-upcoming-updates.webp'
 description: ''
 tags: ["android", "google"]
-keywords: google, android, new features, android updates
+keywords: [google, android, new features, android updates]
 author: 'Ibraheem'
 ---
 

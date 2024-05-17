@@ -4,7 +4,7 @@ date: '2024-04-20'
 cover: '/img/posts/self-driving-car.jpg'
 description: 'The scientists and experts from the University of Surrey has started a new plan to make the self-driving cars journey more safe and secure.'
 tags: ["self driving cars", "cars safety", "massdrive"]
-keywords: self driving cars, cars safety, technology, tesla, apple
+keywords: [self driving cars, cars safety, technology, tesla, apple]
 author: 'Ibraheem'
 ---
 

@@ -4,7 +4,7 @@ date: '2024-05-08'
 cover: '/img/posts/realme-gt-neo-6.jpg'
 description: ''
 tags: ["realme", "gt", "neo 6"]
-keywords: realme, gt, neo6, realmegtneo6
+keywords: [realme, gt, neo6, realmegtneo6]
 author: 'Ibraheem'
 ---
 

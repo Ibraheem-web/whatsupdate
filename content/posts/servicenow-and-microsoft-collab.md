@@ -4,7 +4,7 @@ date: '2024-05-11'
 cover: '/img/posts/microsoft-servicenow-collab.jpg'
 description: ''
 tags: ["micosoft", "servicenow", "nowassist"]
-keywords: microsoft, servicenow, nowassist, ai, collab
+keywords: [microsoft, servicenow, nowassist, ai, collab]
 author: 'Ibraheem'
 ---
 
