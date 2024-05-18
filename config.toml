@@ -12,3 +12,5 @@ title = "InfoTrendSpot"
   keywords = ['InfoTrendSpot', 'infotrendspot.org', 'infotrendspot. org', 'infotrendspot. com', 'news', 'live news', 'big news', 'world news', 'technology']
   [params.algolia]
     enabled = true
+  [[params.js]]
+    url = 'snap-gallery.js'

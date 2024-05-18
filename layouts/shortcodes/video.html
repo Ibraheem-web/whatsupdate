@@ -1,0 +1,13 @@
+<style>
+    .video {
+        width: 100%;
+        height: auto;
+    }
+</style>
+
+<div class="component-content component">
+    <video controls start="2" id="myVideo" class="video rounded">
+        <source src='{{ .Get "src" }}' type="video/mp4">
+    </video>
+    <p class="image-caption" style="align-self: start;">{{ .Get "caption" }}</p>
+</div>

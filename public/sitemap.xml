@@ -2,7 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/posts/best-drawing-tablets-for-animation/</loc>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2024-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/</loc>
+    <lastmod>2024-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/best-drawing-tablets-animation/</loc>
     <lastmod>2024-05-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/animation/</loc>
@@ -12,12 +18,6 @@
     <lastmod>2024-05-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/drawing-tablets/</loc>
-    <lastmod>2024-05-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/</loc>
-    <lastmod>2024-05-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/</loc>
     <lastmod>2024-05-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/</loc>
@@ -44,7 +44,7 @@
     <loc>//localhost:1313/posts/zju-scients-soft-robot-development/</loc>
     <lastmod>2024-05-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/samsung-galaxy-buds2-vs-google-pixel-buds-pro/</loc>
+    <loc>//localhost:1313/posts/samsung-buds2-google-budspro/</loc>
     <lastmod>2024-05-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/earbuds/</loc>
@@ -68,7 +68,7 @@
     <loc>//localhost:1313/tags/servicenow/</loc>
     <lastmod>2024-05-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/samsung-innovative-software-solutions-for-modern-era/</loc>
+    <loc>//localhost:1313/posts/4-samsung-apps-global-imact/</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/bixby/</loc>
@@ -128,13 +128,13 @@
     <loc>//localhost:1313/posts/dell-cybersense/</loc>
     <lastmod>2024-05-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/android-and-google-update/</loc>
+    <loc>//localhost:1313/posts/android-upcoming-updates/</loc>
     <lastmod>2024-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/google-course-to-learn-ai/</loc>
+    <loc>//localhost:1313/posts/google-course-learn-ai/</loc>
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/a-safety-project-launched-for-self-driving-cars/</loc>
+    <loc>//localhost:1313/posts/safety-project-launched-self-driving-cars/</loc>
     <lastmod>2024-04-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/cars-safety/</loc>
@@ -157,8 +157,6 @@
   </url><url>
     <loc>//localhost:1313/tags/whatsapp-features/</loc>
     <lastmod>2024-04-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/about/</loc>
   </url><url>
     <loc>//localhost:1313/categories/</loc>
   </url>

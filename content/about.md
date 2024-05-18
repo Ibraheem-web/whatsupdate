@@ -2,6 +2,7 @@
 title: 'About Us'
 descriptio: 'Welcome to InfoTrendSpot, your premier destination for all tech news. Dive into the latest updates, trends, and innovations in the world of technology...'
 plain: true
+draft: true
 ---
 
 Welcome to InfoTrendSpot, your premier destination for all tech news. Dive into the latest updates, trends, and innovations in the world of technology with us. At InfoTrendSpot, we're dedicated to bringing you the freshest insights and top news from the tech sphere.
