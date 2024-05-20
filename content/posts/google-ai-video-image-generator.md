@@ -6,6 +6,7 @@ description: 'Google recently announced AI video generator Veo and Google image 
 tags: ["google", "veo", "imagine 3"]
 keywords: ["google", "ai", "veo", "imagine 3", "ai video generator", "ai image generator"]
 author: 'Mudassir'
+draft: true
 ---
 
 In these past years, Google has offered many capable AI models which have become very helpful for many industries. Google AI assistant Gemini is a competitor of the most capable AI assistant GPT 3/GPT 4. Google has announced some hot news at Google I/O 2024. Veo and Imagine 3 were both announced at [this meeting](https://blog.google/technology/ai/google-io-2024-100-announcements/). 
