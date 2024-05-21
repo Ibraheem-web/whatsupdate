@@ -1,7 +1,7 @@
 ---
 title: 'Screeen Sharing During Video Call - WhatsApp'
 date: '2024-04-17'
-cover: '/img/posts/whatsapp-update-cover.png'
+cover: '/img/posts/whatsapp-update-cover-min.png'
 description: 'You can now share screen like you do in Zoom Meeting or in Google Meet during video call in WhatsApp'
 tags: ["whatsapp", "whatsapp features", "technology"]
 keywords: [whatsapp, whatsapp features, whatsapp china, new whatsapp feature]

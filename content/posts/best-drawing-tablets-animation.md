@@ -1,7 +1,7 @@
 ---
 title: '5 Best Cheap Drawing Tablets For Animation'
 date: '2024-05-16'
-cover: '/img/posts/best-cheap-drawing-tablets.png'
+cover: '/img/posts/best-cheap-drawing-tablets-min.png'
 description: 'Best drawing tablets for animation you can buy in low budget with rich features and smooth drawing experince.'
 tags: ["animation", "drawing", "drawing tablets"]
 keywords: [drawing tablets for animation, tablets for drawing and animation, best drawing pad for animation, cheap animation tablet, best pen tablet for animation, digital display drawing tablet, animation software for tablet, animation app for tablet]

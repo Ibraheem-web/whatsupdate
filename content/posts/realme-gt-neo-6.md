@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Realme GT Neo 6: A Glimpse into the Future of Smartphones"
 date: '2024-05-08'
-cover: '/img/posts/realme-gt-neo-6.jpg'
+cover: '/img/posts/realme-gt-neo-6-min.jpg'
 description: ''
 tags: ["realme", "gt", "neo 6"]
 keywords: [realme, gt, neo6, realmegtneo6]
@@ -12,7 +12,7 @@ In the ever-evolving landscape of smartphones, Realme continues to push the boun
 
 ### Performance Redefined
 
-![Snapdragon 8S Generation 3|inline ](/img/posts/snapdragon-8s-gen-3.jpg)
+![Snapdragon 8S Generation 3|inline ](/img/posts/snapdragon-8s-gen-3-min.jpg)
 
 At the heart of the Realme GT Neo 6 lies the powerful Snapdragon 8s Gen 3 chipset, coupled with the Adreno 735 GPU. This combination ensures seamless performance, whether you're gaming, streaming, or multitasking. With an octa-core CPU and clock speeds of up to 3.0GHz, the Realme GT Neo 6 is ready to tackle even the most demanding tasks with ease.
 

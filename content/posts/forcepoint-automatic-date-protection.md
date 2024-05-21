@@ -1,7 +1,7 @@
 ---
 title: 'Forcepoint Automatic Data Protection on Risky Behavior - A Tour to Forcepoint DLP Protection '
 date: '2024-05-14'
-cover: '/img/posts/forcepoint-automatic-data-protection.jpg'
+cover: '/img/posts/forcepoint-automatic-data-protection-min.jpg'
 description: ''
 tags: ["forcepoint", "cybersecurity"]
 keywords: ["forcepoint", "cybersecurity", "cyber", "threats", "cyber attacks", "dlp"]

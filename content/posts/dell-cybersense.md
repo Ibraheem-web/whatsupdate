@@ -1,7 +1,7 @@
 ---
 title: 'Dell CyberSense for Empowring Your Digital Defense'
 date: '2024-05-03'
-cover: '/img/posts/dell-cybersense.jpg'
+cover: '/img/posts/dell-cybersense-min.jpg'
 description: "Dell's CyberSense technology is reshaping cybersecurity, offering advanced threat detection and mitigation capabilities to protect organizations from a range of cyber threats"
 tags: ["dell", "cybersense", "cybersecurity"]
 keywords: [dell, cybersense, cybersecurity, cybercriminals]

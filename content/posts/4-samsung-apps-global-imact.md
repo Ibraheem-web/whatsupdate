@@ -1,7 +1,7 @@
 ---
 title: "4 Samsung Apps Redefining Tech Experience and Empowering Global Impact"
 date: '2024-05-10'
-cover: '/img/posts/samsung-innovative-apps.png'
+cover: '/img/posts/samsung-innovative-apps-min.png'
 description: ""
 tags: ["samsung", "bixby", "samsung kids", "samsung global goals", "smart things"]
 keywords: ["samsung", "bixby", "samsung kids", "samsung global goals", "smart things", "samsung apps", "kids safety"]

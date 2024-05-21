@@ -1,7 +1,7 @@
 ---
 title: "Samsung Galaxy Book4 Edge: The Ultimate Next-Gen AI-Powered Laptop"
 date: '2024-05-21'
-cover: '/img/posts/galaxy-book4-edge.png'
+cover: '/img/posts/galaxy-book4-edge-min.png'
 description: ''
 tags: ["samsung", "galaxy book4 edge"]
 keywords: [samsung, galaxy book4 edge, galaxy book 4 edge, laptop, ai laptop, microsoft copilot, snapdragon]

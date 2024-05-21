@@ -1,7 +1,7 @@
 ---
 title: 'Google AI Video and Image Generator Announced at Google I/O'
 date: '2024-05-20'
-cover: '/img/posts/veo-imagine-3.png'
+cover: '/img/posts/veo-imagine-3-min.png'
 description: 'Google recently announced AI video generator Veo and Google image generator Imagine 3 best media models by Google.'
 tags: ["google", "veo", "imagine 3"]
 keywords: ["google", "ai", "veo", "imagine 3", "ai video generator", "ai image generator"]

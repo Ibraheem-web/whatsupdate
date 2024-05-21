@@ -1,7 +1,7 @@
 ---
 title: 'A Comparative Analysis: Samsung Galaxy Buds2 vs. Google Pixel Buds Pro'
 date: '2024-05-12'
-cover: '/img/posts/samsungbud-vs-googlebud.png'
+cover: '/img/posts/samsungbud-vs-googlebud-min.png'
 description: ''
 tags: ["earbuds", "google", "samsung"]
 keywords: [google, samsung, samsung galaxy buds2, google pixel buds pro]

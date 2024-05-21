@@ -1,7 +1,7 @@
 ---
 title: "Xiaomi TV A55 2025 Full Review"
 date: '2024-05-06'
-cover: '/img/posts/xiaomi-tv-a55-new.png'
+cover: '/img/posts/xiaomi-tv-a55-new-min.png'
 description: 'Xiaomi TV A 55 2025: Redefining home entertainment with cutting-edge technology and immersive visuals.'
 tags: ["xiaomi", "a55", "tv"]
 keywords: [xiaomi, pura-70-ultra, android, pop-out-camera]

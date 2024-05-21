@@ -1,7 +1,7 @@
 ---
 title: 'Boosting Productivity at Work: ServiceNow and Microsoft Combine AI Capabilities!'
 date: '2024-05-11'
-cover: '/img/posts/microsoft-servicenow-collab.jpg'
+cover: '/img/posts/microsoft-servicenow-collab-min.jpg'
 description: ''
 tags: ["micosoft", "servicenow", "nowassist"]
 keywords: [microsoft, servicenow, nowassist, ai, collab]
