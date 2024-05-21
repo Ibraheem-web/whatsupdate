@@ -1,7 +1,7 @@
 (() => {
   // ns-params:@params
   var baseURL = "//localhost:1313/";
-  var params = { algolia: { enabled: true }, js: [{ url: "snap-gallery.js" }], keywords: ["InfoTrendSpot", "infotrendspot.org", "infotrendspot. org", "infotrendspot. com", "news", "live news", "big news", "world news", "technology"], mydomain: "https://infotrendspot.org/", showcopyright: true };
+  var params = { algolia: { enabled: false }, js: [{ url: "snap-gallery.js" }], keywords: ["InfoTrendSpot", "infotrendspot.org", "infotrendspot. org", "infotrendspot. com", "news", "live news", "big news", "world news", "technology"], mydomain: "https://infotrendspot.org/", showcopyright: true };
 
   // <stdin>
   var { appid, appkey, searchindex: indexName, enabled } = params.algolia;
