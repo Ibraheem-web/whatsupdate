@@ -2,22 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/tags/galaxy-book4-edge/</loc>
-    <lastmod>2024-05-21T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/posts/free-fun-easy-work-making-apps/</loc>
+    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/apps/</loc>
+    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/digicard/</loc>
+    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2024-05-21T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/localsend/</loc>
+    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/</loc>
+    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/spatial-touch/</loc>
+    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/galaxy-book4-edge/</loc>
     <lastmod>2024-05-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/samsung/</loc>
     <lastmod>2024-05-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/samsung-galaxy-book-4-edge/</loc>
-    <lastmod>2024-05-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/</loc>
     <lastmod>2024-05-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/google/</loc>

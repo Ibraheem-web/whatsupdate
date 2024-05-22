@@ -6,8 +6,36 @@
     <description>Recent content in Tags on InfoTrendSpot</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apps</title>
+      <link>//localhost:1313/tags/apps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/apps/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Digicard</title>
+      <link>//localhost:1313/tags/digicard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/digicard/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Localsend</title>
+      <link>//localhost:1313/tags/localsend/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/localsend/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spatial Touch</title>
+      <link>//localhost:1313/tags/spatial-touch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/spatial-touch/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Galaxy Book4 Edge</title>
       <link>//localhost:1313/tags/galaxy-book4-edge/</link>
