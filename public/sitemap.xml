@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/tags/ai/</loc>
+    <lastmod>2024-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/fun/</loc>
+    <lastmod>2024-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/health/</loc>
+    <lastmod>2024-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2024-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/</loc>
+    <lastmod>2024-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2024-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/10-ai-useful-ai-tools/</loc>
+    <lastmod>2024-05-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/posts/free-fun-easy-work-making-apps/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -11,19 +32,10 @@
     <loc>//localhost:1313/tags/digicard/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
-    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/tags/localsend/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
-    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/tags/spatial-touch/</loc>
-    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/galaxy-book4-edge/</loc>
@@ -58,9 +70,6 @@
   </url><url>
     <loc>//localhost:1313/tags/drawing-tablets/</loc>
     <lastmod>2024-05-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/ai/</loc>
-    <lastmod>2024-05-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/cybersecurity/</loc>
     <lastmod>2024-05-14T00:00:00+00:00</lastmod>
