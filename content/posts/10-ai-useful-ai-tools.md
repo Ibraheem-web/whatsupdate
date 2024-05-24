@@ -1,6 +1,6 @@
 ---
 title: 'Top 10 Helpful AI Tools You Can Use For Free'
-date: '2024-05-23'
+date: '2024-05-24'
 cover: '/img/posts/top-10-ai-tools.png'
 description: '10 best AI tools you can try for free to make your life easy and you can use for productivity.'
 tags: ["ai", "fun", "health"]
