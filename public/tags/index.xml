@@ -6,27 +6,41 @@
     <description>Recent content in Tags on InfoTrendSpot</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Animation</title>
-      <link>//localhost:1313/tags/animation/</link>
+      <title>Cybersecurity</title>
+      <link>//localhost:1313/tags/cybersecurity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/animation/</guid>
+      <guid>//localhost:1313/tags/cybersecurity/</guid>
       <description></description>
     </item>
     <item>
-      <title>Drawing</title>
-      <link>//localhost:1313/tags/drawing/</link>
+      <title>Protection</title>
+      <link>//localhost:1313/tags/protection/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/drawing/</guid>
+      <guid>//localhost:1313/tags/protection/</guid>
       <description></description>
     </item>
     <item>
-      <title>Drawing Tablets</title>
-      <link>//localhost:1313/tags/drawing-tablets/</link>
+      <title>Ai</title>
+      <link>//localhost:1313/tags/ai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/drawing-tablets/</guid>
+      <guid>//localhost:1313/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fun</title>
+      <link>//localhost:1313/tags/fun/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/fun/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Health</title>
+      <link>//localhost:1313/tags/health/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/health/</guid>
       <description></description>
     </item>
     <item>
@@ -93,17 +107,24 @@
       <description></description>
     </item>
     <item>
-      <title>Ai</title>
-      <link>//localhost:1313/tags/ai/</link>
+      <title>Animation</title>
+      <link>//localhost:1313/tags/animation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/ai/</guid>
+      <guid>//localhost:1313/tags/animation/</guid>
       <description></description>
     </item>
     <item>
-      <title>Cybersecurity</title>
-      <link>//localhost:1313/tags/cybersecurity/</link>
+      <title>Drawing</title>
+      <link>//localhost:1313/tags/drawing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/cybersecurity/</guid>
+      <guid>//localhost:1313/tags/drawing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Drawing Tablets</title>
+      <link>//localhost:1313/tags/drawing-tablets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/drawing-tablets/</guid>
       <description></description>
     </item>
     <item>
