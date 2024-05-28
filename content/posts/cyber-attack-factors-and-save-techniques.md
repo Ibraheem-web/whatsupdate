@@ -5,7 +5,7 @@ cover: '/img/posts/stay-safe-from-cyberattaks.png'
 description: ''
 tags: ["cybersecurity", "protection"]
 keywords: [cybersecurity, protection, phishing]
-author: 'Ibraheem'
+author: 'Mazhar'
 ---
 
 A lot of companies and organizations were attacked by cyber criminals, today we'll see some common and major techniques used in cyber attacks and how to stay safe from getting an attack.
