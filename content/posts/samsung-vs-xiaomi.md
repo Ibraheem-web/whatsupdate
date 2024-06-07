@@ -1,6 +1,6 @@
 ---
 title: "Best VS Best: Samsung Comparison to Xiaomi Under $150"
-date: '2024-06-06'
+date: '2024-06-07'
 cover: '/img/posts/samsung-vs-xiaomi-infotrendspot.png'
 description: "A detailed comparison between Samsung A30s and Xiaomi Redmi Note 9s. - Pros and Cons"
 tags: ["samsung", "xiomi"]
