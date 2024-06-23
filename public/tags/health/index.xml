@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Health on InfoTrendSpot</title>
+    <link>//localhost:1313/tags/health/</link>
+    <description>Recent content in Health on InfoTrendSpot</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 24 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/health/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Top 10 Helpful AI Tools You Can Use For Free</title>
+      <link>//localhost:1313/posts/10-ai-useful-ai-tools/</link>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/10-ai-useful-ai-tools/</guid>
+      <description>In this article, I&amp;rsquo;m gonna show you the best AI tools that can help you to save time and get the best solutions for your problems. Let&amp;rsquo;s see what we got today.&#xA;1. 1 Happy Birthday&#xD;On this top of the list, we got 1 Happy Birthday AI tool. You sure are wondering what this thing is doing in this list. Well, this tool can make someone&amp;rsquo;s birthday special who is special to you.</description>
+    </item>
+  </channel>
+</rss>

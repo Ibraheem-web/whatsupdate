@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Updates on InfoTrendSpot</title>
+    <link>//localhost:1313/tags/updates/</link>
+    <description>Recent content in Updates on InfoTrendSpot</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 02 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/updates/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Telegram Updates Added in 2024</title>
+      <link>//localhost:1313/posts/telegram-2024-updates/</link>
+      <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/telegram-2024-updates/</guid>
+      <description>Telegram is always loved by users and has a wide community. It never fails to impress its users and lovers. Even more people started using it due to its ease of use and its features. In the past, the telegram has continuously made improvements and added new features that are really appreciatable. Today we&amp;rsquo;ll see some of the new telegram features introduced in 2024.&#xA;Group Updates&#xD;On Feb 29, 2024, Telegram unveils the best updates for groups.</description>
+    </item>
+  </channel>
+</rss>

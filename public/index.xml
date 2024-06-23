@@ -6,8 +6,15 @@
     <description>Recent content on InfoTrendSpot</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 09 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Rols of AI in HealthCare: How AI is Emerging in HealthCare?</title>
+      <link>//localhost:1313/posts/ai-in-healthcare/</link>
+      <pubDate>Sun, 23 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/ai-in-healthcare/</guid>
+      <description>Artificial intelligence (AI) is progressively being used in healthcare to improve patient care and efficient administrative tasks. AI includes various technologies like machine learning, natural language processing (NLP), and robotic process automation (RPA).&#xA;Types of AI Relevant to Healthcare&#xD;Machine Learning: This involves teaching computers to learn from data without detailed programming. It&amp;rsquo;s used in dispensing medicine to predict treatment success based on patient data.&#xA;Deep Learning: A more advanced form of machine learning, it&amp;rsquo;s used to analyze complex medical images like cancerous lesions in radiology scans.</description>
+    </item>
     <item>
       <title>The Evolution of Electric Vehicles: Latest Models and Innovations</title>
       <link>//localhost:1313/posts/latest-electric-vehicles/</link>

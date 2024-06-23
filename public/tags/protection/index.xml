@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Protection on InfoTrendSpot</title>
+    <link>//localhost:1313/tags/protection/</link>
+    <description>Recent content in Protection on InfoTrendSpot</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 28 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/protection/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What are major cyber attack factors and how to stay safe from cyber-attacks?</title>
+      <link>//localhost:1313/posts/cyber-attack-factors-and-save-techniques/</link>
+      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/cyber-attack-factors-and-save-techniques/</guid>
+      <description>A lot of companies and organizations were attacked by cyber criminals, today we&amp;rsquo;ll see some common and major techniques used in cyber attacks and how to stay safe from getting an attack.&#xA;Human Error&#xD;It&amp;rsquo;s a very common mistake we often make. We click on malicious links, or we use easy-to-guess passwords. Hackers can get personal data with these little mistakes. We should use strong passwords which contains alphabets, nubmer, and symbols that can&amp;rsquo;t be accessed very easily.</description>
+    </item>
+  </channel>
+</rss>
