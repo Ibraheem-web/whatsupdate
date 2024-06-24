@@ -1,8 +1,10 @@
 ---
-title: "The Rols of AI in HealthCare: How AI is Emerging in HealthCare?"
+title: "The Roll of AI in HealthCare: How AI is Emerging in HealthCare?"
 date: "2024-06-23"
 description: "AI is doing work faster and more efficiently way in almost every industry. In the medical field, it's doing everything much more logically. Let's find out its improvements in the Medial zone."
 author: "Ibraheem"
+tage: ["ai", "healthcare"]
+keywords: ["ai", "healthcare", "robotics", "deep learning", "machine learning"]
 cover: "/img/posts/ai-in-healthcare-infotrendspot.jpg"
 ---
 
