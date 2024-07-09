@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Content on InfoTrendSpot</title>
+    <link>//localhost:1313/tags/content/</link>
+    <description>Recent content in Content on InfoTrendSpot</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 09 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/content/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Navigating the New Age of Digital Ownership and Content Management</title>
+      <link>//localhost:1313/posts/digital-ownership-and-content-management/</link>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/digital-ownership-and-content-management/</guid>
+      <description>With the current trend and era of digitalization in everything, the birth of non-physical ownership is added to the physical ownership of tangible things. Digital ownership pertains to the claim and rights over digital contents like files, music, movies, software programs, and any title that can be categorized under digital media. This is very important since digital content is easily accessed, distributed, and channeled across the internet, thus causing concern about issues that are related to copyright, privacy, and security.</description>
+    </item>
+  </channel>
+</rss>
