@@ -4,7 +4,7 @@
     <title>Veo on InfoTrendSpot</title>
     <link>//localhost:1313/tags/veo/</link>
     <description>Recent content in Veo on InfoTrendSpot</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/tags/veo/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>//localhost:1313/posts/google-ai-video-image-generator/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/google-ai-video-image-generator/</guid>
-      <description>In these past years, Google has offered many capable AI models which have become very helpful for many industries. Google AI assistant Gemini is a competitor of the most capable AI assistant GPT 3/GPT 4. Google has announced some hot news at Google I/O 2024. Veo and Imagine 3 were both announced at this meeting.&#xA;Veo: Google&amp;rsquo;s most capable AI video generator model&#xD;Veo can create a high-quality 1080p resolution video in a lot of visual style within a minute.</description>
+      <description>In these past years, Google has offered many capable AI models which have become very helpful for many industries. Google AI assistant Gemini is a competitor of the most capable AI assistant GPT 3/GPT 4. Google has announced some hot news at Google I/O 2024. Veo and Imagine 3 were both announced at this meeting.&#xA;Veo: Google&amp;rsquo;s most capable AI video generator model Veo can create a high-quality 1080p resolution video in a lot of visual style within a minute.</description>
     </item>
   </channel>
 </rss>

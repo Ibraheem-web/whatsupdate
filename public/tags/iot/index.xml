@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iot on InfoTrendSpot</title>
+    <link>//localhost:1313/tags/iot/</link>
+    <description>Recent content in Iot on InfoTrendSpot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 13 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/iot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Revolutionizing Waste Management: Futuristic Solutions for a Sustainable Future</title>
+      <link>//localhost:1313/posts/smart-waste-management/</link>
+      <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/smart-waste-management/</guid>
+      <description>As the cities are growing bigger and people consuming more, waste management is gradually becoming a gargantuan problem around the globe. Landfilling and incineration—traditional methods of waste disposal—stand viewed as hazardous to the environment nowadays. This has seen the need develop advanced solutions on waste management aimed at waste reduction, increasing recycling, and sustainable practices. This article examines current challenges in waste management and explores modern solutions used globally in managing waste.</description>
+    </item>
+  </channel>
+</rss>
