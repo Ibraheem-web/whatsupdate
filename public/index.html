@@ -532,7 +532,29 @@ if (!doNotTrack) {
 
         
       </ul>
+      <div class="btnContainer">
+        <a href="/posts" class="customBtn">Past Entries</a>
+      </div>
     </div>
+    <style>
+      .btnContainer {
+        display: flex;
+        justify-content: center;
+      }
+      .customBtn {
+        padding: 15px 25px;
+        background: black;
+        color: white;
+        margin-top: 10px;
+      }
+      .customBtn:hover {
+        transform: scale(1.15);
+        text-decoration: none;
+        transition-property: transform;
+        transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+        transition-duration: 150ms;
+      }
+    </style>
   </section><script>
       document.addEventListener("DOMContentLoaded", function () {
         var script = document.createElement("script");
