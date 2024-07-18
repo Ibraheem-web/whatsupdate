@@ -6,13 +6,27 @@
     <description>Recent content in Tags on InfoTrendSpot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ai</title>
       <link>//localhost:1313/tags/ai/</link>
-      <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Biotech</title>
+      <link>//localhost:1313/tags/biotech/</link>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/biotech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Health</title>
+      <link>//localhost:1313/tags/health/</link>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/health/</guid>
       <description></description>
     </item>
     <item>
@@ -125,13 +139,6 @@
       <link>//localhost:1313/tags/fun/</link>
       <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/tags/fun/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Health</title>
-      <link>//localhost:1313/tags/health/</link>
-      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/health/</guid>
       <description></description>
     </item>
     <item>
