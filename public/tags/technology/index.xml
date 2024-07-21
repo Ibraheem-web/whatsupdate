@@ -4,7 +4,7 @@
     <title>Technology on InfoTrendSpot</title>
     <link>//localhost:1313/tags/technology/</link>
     <description>Recent content in Technology on InfoTrendSpot</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 17 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/tags/technology/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>//localhost:1313/posts/whatsapp-new-release/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/whatsapp-new-release/</guid>
-      <description>About WhatsApp: WhatsApp by Meta is a completely free and secure messaging and calling app. WhatsApp is trusted by over 2B people across 180 countries making it one of the world&amp;rsquo;s best trusted communication apps. What we really love about WhatsApp is its complexity and speed. To know more about WhatsApp visit Meta, WhatsApp or Wiki.&#xA;Latest Update: In the latest release 2.24.8.81 on 17th April 2024, WhatsApp introduced a new feature Screen sharing during video calls with minor updates in the app.</description>
+      <description>About WhatsApp:&#xD;WhatsApp by Meta is a completely free and secure messaging and calling app. WhatsApp is trusted by over 2B people across 180 countries making it one of the world&amp;rsquo;s best trusted communication apps. What we really love about WhatsApp is its complexity and speed. To know more about WhatsApp visit Meta, WhatsApp or Wiki.&#xA;Latest Update:&#xD;In the latest release 2.24.8.81 on 17th April 2024, WhatsApp introduced a new feature Screen sharing during video calls with minor updates in the app.</description>
     </item>
   </channel>
 </rss>

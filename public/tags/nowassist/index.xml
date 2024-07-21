@@ -4,7 +4,7 @@
     <title>Nowassist on InfoTrendSpot</title>
     <link>//localhost:1313/tags/nowassist/</link>
     <description>Recent content in Nowassist on InfoTrendSpot</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 11 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/tags/nowassist/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>//localhost:1313/posts/servicenow-and-microsoft-collab/</link>
       <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/servicenow-and-microsoft-collab/</guid>
-      <description>At Knowledge 2024, ServiceNow (NYSE: NOW) and Microsoft Corp. (NASDAQ: MSFT) announced an important partnership aimed at making work easier and more productive. By combining their advanced AI technologies, Now Assist and Microsoft Copilot, they aim to simplify tasks for employees and boost productivity in the workplace.&#xA;ServiceNow and Microsoft&amp;rsquo;s Joint Effort This collaboration brings together Now Assist and Microsoft Copilot, two powerful AI assistants. Together, they offer an immaculate experience, bridging the gap between ServiceNow’s AI workflows and Microsoft Copilot.</description>
+      <description>At Knowledge 2024, ServiceNow (NYSE: NOW) and Microsoft Corp. (NASDAQ: MSFT) announced an important partnership aimed at making work easier and more productive. By combining their advanced AI technologies, Now Assist and Microsoft Copilot, they aim to simplify tasks for employees and boost productivity in the workplace.&#xA;ServiceNow and Microsoft&amp;rsquo;s Joint Effort&#xD;This collaboration brings together Now Assist and Microsoft Copilot, two powerful AI assistants. Together, they offer an immaculate experience, bridging the gap between ServiceNow’s AI workflows and Microsoft Copilot.</description>
     </item>
   </channel>
 </rss>
