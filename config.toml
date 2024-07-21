@@ -13,4 +13,4 @@ title = "InfoTrendSpot"
   [params.algolia]
     enabled = false
   [[params.js]]
-    url = 'snap-gallery.js'
+    url = 'snap-gallery.js' 
