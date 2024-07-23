@@ -4,7 +4,7 @@
     <title>Health on InfoTrendSpot</title>
     <link>//localhost:1313/tags/health/</link>
     <description>Recent content in Health on InfoTrendSpot</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 16 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/tags/health/index.xml" rel="self" type="application/rss+xml" />
@@ -13,14 +13,14 @@
       <link>//localhost:1313/posts/healthcare-and-biotech/</link>
       <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/healthcare-and-biotech/</guid>
-      <description>HealthTech and BioTech are making it possible to provide optimal patient care across the globe. This use of technology and biological processes will, most likely, advance the health industry further. This article delves into the latest innovations and their application in the real world.&#xA;AI in Healthcare&#xD;Artificial Intelligence (AI) is revolutionizing health care treatment, diagnostics, and patient care. AI is able to analyze complex medical data to ensure disease is detected in good time and with high accuracy.</description>
+      <description>HealthTech and BioTech are making it possible to provide optimal patient care across the globe. This use of technology and biological processes will, most likely, advance the health industry further. This article delves into the latest innovations and their application in the real world.&#xA;AI in Healthcare Artificial Intelligence (AI) is revolutionizing health care treatment, diagnostics, and patient care. AI is able to analyze complex medical data to ensure disease is detected in good time and with high accuracy.</description>
     </item>
     <item>
       <title>Top 10 Helpful AI Tools You Can Use For Free</title>
       <link>//localhost:1313/posts/10-ai-useful-ai-tools/</link>
       <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/10-ai-useful-ai-tools/</guid>
-      <description>In this article, I&amp;rsquo;m gonna show you the best AI tools that can help you to save time and get the best solutions for your problems. Let&amp;rsquo;s see what we got today.&#xA;1. 1 Happy Birthday&#xD;On this top of the list, we got 1 Happy Birthday AI tool. You sure are wondering what this thing is doing in this list. Well, this tool can make someone&amp;rsquo;s birthday special who is special to you.</description>
+      <description>In this article, I&amp;rsquo;m gonna show you the best AI tools that can help you to save time and get the best solutions for your problems. Let&amp;rsquo;s see what we got today.&#xA;1. 1 Happy Birthday On this top of the list, we got 1 Happy Birthday AI tool. You sure are wondering what this thing is doing in this list. Well, this tool can make someone&amp;rsquo;s birthday special who is special to you.</description>
     </item>
   </channel>
 </rss>

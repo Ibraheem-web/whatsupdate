@@ -26,14 +26,13 @@
 
     <link rel="canonical" href="{{ .Permalink | relURL }}" />
 
-    <link rel="stylesheet" href="{{ " css/global.css" | relURL }}">
-    <link rel="stylesheet" href="{{ " css/custom.css" | relURL }}">
-    <link rel="stylesheet" href="{{ " css/search.css" | relURL }}" />
+    <link rel="stylesheet" href="{{ "css/global.css" | relURL }}">
+    <link rel="stylesheet" href="{{ "css/custom.css" | relURL }}">
+    <link rel="stylesheet" href="{{ "css/search.css" | relURL }}" />
 
     <!-- algolia related style -->
     {{ if site.Params.algolia.enabled }}
-    <link rel="stylesheet" href="{{
-  " css/autocomplete-theme-classic.css" | relURL }}" /> {{ end }}
+    <link rel="stylesheet" href="{{ "css/autocomplete-theme-classic.css" | relURL }}" /> {{ end }}
 
     <!-- google adsense tag -->
     <meta name="google-adsense-account" content="ca-pub-3573669925863576" />
