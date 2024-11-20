@@ -1,11 +1,6 @@
 {{ define "main" }}
 <div class="results">
     <div class="results__content">
-
-        <div style="margin-top: 24px;">
-            <h1 style="font-size: 2.5rem;">Articles</h1>
-            <p style="font-size: 18px; letter-spacing: 0.7px;">Stay updated with the latest tech news and updates learn about new things in a simple way. Explore <a href="/tags/">all topics</a> if you want to get details on a specific topic.</p>
-        </div>
         {{ range (.Paginate (.Pages.GroupByDate "2006-01")).PageGroups }}
         <div class="result" role="group">
             <!-- add day manually to parse as date-->

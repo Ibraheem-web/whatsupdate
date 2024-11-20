@@ -11,6 +11,9 @@ title = "InfoTrendSpot"
   mydomain = 'https://infotrendspot.org/'
   keywords = ['InfoTrendSpot', 'infotrendspot.org', 'infotrendspot. org', 'infotrendspot. com', 'news', 'live news', 'big news', 'world news', 'technology']
   [params.algolia]
-    enabled = false
+    enabled = true
+    appId = 'QJKQYZKQ1F'
+    appKey = '5fa0a426a84ac1a01a1b46b1c2b75bbd'
+    searchIndex = 'search_index'
   [[params.js]]
     url = 'snap-gallery.js' 

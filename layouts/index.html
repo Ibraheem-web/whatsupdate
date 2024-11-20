@@ -2,10 +2,6 @@
 {{ $pages := where .Site.RegularPages "Params.plain" "ne" true }}
     <section class="everydayfeed">
     <div class="section-content">
-      <div style="margin-top: 24px;">
-        <h1 style="font-size: 2.5rem;">InfoTrendSpot</h1>
-        <p style="font-size: 18px; letter-spacing: 0.7px;">InfoTrendSpot is your go-to source for the latest tech updates and news. Stay informed with our coverage of cutting-edge technology trends, product launches, and industry insights. From AI advancements to the newest gadgets, InfoTrendSpot keeps you ahead in the ever-evolving tech world. See <a href="/posts/">all articles</a> and explore <a href="/tags/">popular topics</a> like AI, gadgets, cybersecurity, and more.</p>
-      </div>
       <h2 class="section-head">{{ i18n "latestArticles" }}</h2>
       <ul role="list" class="section-tiles">
         {{ range first 1 $pages }}

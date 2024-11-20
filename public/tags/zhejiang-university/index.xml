@@ -4,7 +4,7 @@
     <title>Zhejiang University on InfoTrendSpot</title>
     <link>//localhost:1313/tags/zhejiang-university/</link>
     <description>Recent content in Zhejiang University on InfoTrendSpot</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 14 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/tags/zhejiang-university/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>//localhost:1313/posts/zju-scients-soft-robot-development/</link>
       <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/zju-scients-soft-robot-development/</guid>
-      <description>Exploration of the Mariana Trench, the deepest known submarine trench on Earth, has long captivated the imagination of scientists and adventurers alike. However, the extreme hydrostatic pressure found in this forbidding environment presents a formidable challenge for man-made machines. Until recently, the prospect of venturing into this abyss seemed reserved for only the most resilient of crafts.&#xA;Design Inspiration In a groundbreaking development, scientists at Zhejiang University have shattered this barrier with their latest research into soft robotics.</description>
+      <description>&lt;p&gt;Exploration of the Mariana Trench, the deepest known submarine trench on Earth, has long captivated the imagination of scientists and adventurers alike. However, the extreme hydrostatic pressure found in this forbidding environment presents a formidable challenge for man-made machines. Until recently, the prospect of venturing into this abyss seemed reserved for only the most resilient of crafts.&lt;/p&gt;&#xA;&#xA;&lt;div class=&#34;component-content pagebody component&#34;&gt;&#xA;  &lt;h3 id=&#34;design-inspiration&#34; class=&#34;pagebody-header&#34;&gt;&#xA;    Design Inspiration&#xA;  &lt;/h3&gt;&#xA;&lt;/div&gt;&lt;p&gt;In a groundbreaking development, scientists at Zhejiang University have shattered this barrier with their latest research into soft robotics. Led by Professor LI Tiefeng from the Center for X-Mechanics at the Zhejiang University School of Aeronautics and Astronautics, in collaboration with Zhejiang Lab and interdisciplinary partners, the team has devised a revolutionary solution inspired by nature’s own adaptations.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

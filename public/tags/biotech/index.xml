@@ -4,7 +4,7 @@
     <title>Biotech on InfoTrendSpot</title>
     <link>//localhost:1313/tags/biotech/</link>
     <description>Recent content in Biotech on InfoTrendSpot</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 16 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/tags/biotech/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>//localhost:1313/posts/healthcare-and-biotech/</link>
       <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/healthcare-and-biotech/</guid>
-      <description>HealthTech and BioTech are making it possible to provide optimal patient care across the globe. This use of technology and biological processes will, most likely, advance the health industry further. This article delves into the latest innovations and their application in the real world.&#xA;AI in Healthcare Artificial Intelligence (AI) is revolutionizing health care treatment, diagnostics, and patient care. AI is able to analyze complex medical data to ensure disease is detected in good time and with high accuracy.</description>
+      <description>&lt;p&gt;HealthTech and BioTech are making it possible to provide optimal patient care across the globe. This use of technology and biological processes will, most likely, advance the health industry further. This article delves into the latest innovations and their application in the real world.&lt;/p&gt;&#xA;&#xA;&lt;div class=&#34;component-content pagebody component&#34;&gt;&#xA;  &lt;h3 id=&#34;ai-in-healthcare&#34; class=&#34;pagebody-header&#34;&gt;&#xA;    AI in Healthcare&#xA;  &lt;/h3&gt;&#xA;&lt;/div&gt;&lt;p&gt;Artificial Intelligence (AI) is revolutionizing health care treatment, diagnostics, and patient care. AI is able to analyze complex medical data to ensure disease is detected in good time and with high accuracy. For example, Lithuanian startup Ligence&amp;rsquo;s CardioEchoAI reduces heart ultrasound examination time from 30 to 5 minutes and increases diagnostic precision.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -17,8 +17,7 @@
     script.onload = function() {
       animationElementName = ".image-load";
       loadImage = (index) => {
-        if (index >= imageElements.length)
-          return;
+        if (index >= imageElements.length) return;
         let image = imageElements[index];
         image.src = image.dataset.src;
         let img = new Image();
@@ -31,8 +30,7 @@
         };
       };
       loadAnimation = (item) => {
-        if (item.classList.contains("image-loaded"))
-          return;
+        if (item.classList.contains("image-loaded")) return;
         let grandSon = item.children[0].children[0];
         let img = new Image();
         img.src = grandSon.src;
@@ -48,8 +46,7 @@
           var style = document.createElement("style");
           style.innerHTML = renderStyle(sign, percent);
           let target2 = document.getElementById(`lht${sign}`);
-          if (!target2)
-            return;
+          if (!target2) return;
           target2.parentNode.insertBefore(style, target2);
           item.classList.remove("image-load");
           item.classList.add("image-loaded");
