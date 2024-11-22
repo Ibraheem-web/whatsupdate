@@ -1,7 +1,5 @@
 title = "InfoTrendSpot"
 [services]
-  [services.disqus]
-    shortname = 'whatsupdate'
   [services.googleAnalytics]
     ID = 'G-4V070KMHQV'
 [params]
