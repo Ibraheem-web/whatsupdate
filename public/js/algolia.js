@@ -1,7 +1,6 @@
 (() => {
   // ns-params:@params
-  var baseURL = "//localhost:1313/";
-  var params = { algolia: { enabled: true }, js: [{ url: "snap-gallery.js" }], keywords: ["InfoTrendSpot", "infotrendspot.org", "infotrendspot. org", "infotrendspot. com", "news", "live news", "big news", "world news", "technology"], mydomain: "https://infotrendspot.org/", showcopyright: true };
+  var params = { algolia: { appid: "QJKQYZKQ1F", appkey: "5fa0a426a84ac1a01a1b46b1c2b75bbd", enabled: true, searchindex: "infotrendspot_blog_articles" }, js: [{ url: "snap-gallery.js" }, { url: "instantsearch.min.js" }], keywords: ["InfoTrendSpot", "infotrendspot.org", "infotrendspot. org", "infotrendspot. com", "news", "live news", "big news", "world news", "technology"], mydomain: "https://infotrendspot.org/", showcopyright: true };
 
   // <stdin>
   var { appid, appkey, searchindex: indexName, enabled } = params.algolia;
@@ -22,7 +21,7 @@
                     indexName,
                     query,
                     params: {
-                      attributesToSnippet: ["name:10", "description:35"]
+                      attributesToSnippet: ["headline:10", "description:35"]
                     }
                   }
                 ]
@@ -30,21 +29,22 @@
             },
             templates: {
               item({ item, components, html }) {
-                return html`<a class="aa-ItemWrapper" href="${baseURL}${item.uri}">
+                return html`<div class="aa-ItemWrapper">
                 <div class="aa-ItemContent">
+                  
                   <div class="aa-ItemContentBody">
                     <div class="aa-ItemContentTitle">
                       ${components.Highlight({
                   hit: item,
-                  attribute: "name"
+                  attribute: "headline"
                 })}
                     </div>
-                    <div class="aa-ItemContentDescription">
+                    <a class="aa-ItemContentDescription" href="${item.url}">
                       ${components.Snippet({
                   hit: item,
                   attribute: "description"
                 })}
-                    </div>
+                    </a>
                   </div>
                   <div class="aa-ItemActions">
                     <button
@@ -65,7 +65,7 @@
                     </button>
                   </div>
                 </div>
-              </a>`;
+              </div>`;
               }
             }
           }

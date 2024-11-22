@@ -20,7 +20,7 @@ function initAlgolia(){
                   indexName,
                   query,
                   params: {
-                    attributesToSnippet: ['name:10', 'description:35'],
+                    attributesToSnippet: ['headline:10', 'description:35'],
                   },
                 },
               ],
@@ -28,21 +28,22 @@ function initAlgolia(){
           },
           templates: {
             item({ item, components, html }) {
-              return html`<a class="aa-ItemWrapper" href="${baseURL}${item.uri}">
+              return html`<div class="aa-ItemWrapper">
                 <div class="aa-ItemContent">
+                  
                   <div class="aa-ItemContentBody">
                     <div class="aa-ItemContentTitle">
                       ${components.Highlight({
                         hit: item,
-                        attribute: 'name',
+                        attribute: 'headline',                        
                       })}
                     </div>
-                    <div class="aa-ItemContentDescription">
+                    <a class="aa-ItemContentDescription" href="${item.url}">
                       ${components.Snippet({
                         hit: item,
                         attribute: 'description',
                       })}
-                    </div>
+                    </a>
                   </div>
                   <div class="aa-ItemActions">
                     <button
@@ -63,7 +64,7 @@ function initAlgolia(){
                     </button>
                   </div>
                 </div>
-              </a>`;
+              </div>`;
             },
           }
         },
